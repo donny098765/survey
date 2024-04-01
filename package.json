@@ -1,0 +1,20 @@
+{
+  "name": "survey",
+  "version": "1.0.0",
+  "description": "a random survey app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Survey",
+    "School",
+    "Javascript"
+  ],
+  "author": "Donny Yang",
+  "license": "ISC",
+  "dependencies": {
+    "enquire": "^0.0.2",
+    "enquirer": "^2.4.1"
+  }
+}
